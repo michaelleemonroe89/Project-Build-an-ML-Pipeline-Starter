@@ -5,6 +5,7 @@ main:
   project_name: nyc_airbnb
   experiment_name: development
   steps: all
+  src_repository: "https://github.com/michaelleemonroe89/Project-Build-an-ML-Pipeline-Starter.git#src"
 etl:
   sample: "sample1.csv"
   min_price: 10  # dollars
